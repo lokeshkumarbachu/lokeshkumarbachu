@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm learning new ways to cut the sugar intakes into my body and how effective the daily life is without having sugars. 
 
-Projects I Created so far: 
+##Projects I Created so far: Need to categorize and give some comment for each project.. 
 . banking_system
 
