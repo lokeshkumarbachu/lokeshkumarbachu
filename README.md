@@ -15,7 +15,7 @@
 - LinkedIn: [linkedin.com/in/lokeshkumarbachu](https://linkedin.com/in/lokeshkumarbachu)  
 - GitHub Projects: [github.com/lokeshkumarbachu](https://github.com/lokeshkumarbachu)  
 - Email: lokeshkumarbachu@gmail.com
-- 
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data engineering projects(Banking system, Supply chain & Tariff disruption analysis(Capstone))
